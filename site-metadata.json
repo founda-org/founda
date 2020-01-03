@@ -9,7 +9,7 @@
       "actions": [
         {
           "label": "Join the club",
-          "url": "/contact"
+          "url": "/#contact"
         }
       ]
     }
