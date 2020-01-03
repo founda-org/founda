@@ -1,89 +1,73 @@
 ---
 title: Home
 sections:
-  - type: section_hero
+  - actions:
+      - label: Join the club
+        url: /subscribe
+    content: ''
+    image: /images/undraw_team_spirit_hrr4.svg
     section_id: hero
-    title: This Is A Big Hero Headline
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
-    image: images/hero.png
-    actions:
-      - label: Learn More
-        url: /features
-  - type: section_features
-    section_id: features
-    title: Features
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
-    bg: gray
+    title: Free business support for tech entrepreneurs
+    type: section_hero
+  - bg: white
     featureslist:
-      - title: The Best Feature of Your Services
+      - actions: []
         content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
-        image: images/feature1.png
-        actions:
-          - label: Learn More
-            url: /features
-      - title: Awesome Feature of Your Services
+          We connect you with other Founda's in a Slack channel where you can
+          discuss ideas and challenges with people in the same boat.
+        image: /images/undraw_connection_b38q-1-.png
+        title: Founders
+      - actions: []
         content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
-        image: images/feature2.png
-        actions:
-          - label: Learn More
-            url: /features
-      - title: Cool Feature of Your Services
+          We are building close ties with a network of investors who can fuel
+          your growth.
+        image: /images/undraw_invest_88iw.png
+        title: Investors
+      - actions: []
         content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
-        image: images/feature3.png
-        actions:
-          - label: Learn More
-            url: /features
-  - type: section_reviews
-    section_id: reviews
-    title: Testimonials
-    subtitle: >-
-      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales. 
-    bg: white
-    reviews:
-      - author: John Doe
-        avatar: images/review1.jpg
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-      - author: Jane Roe
-        avatar: images/review2.jpg
-        content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin, vel posuere justo laoreet.
-      - author: Richard Roe
-        avatar: images/review3.jpg
-        content: >-
-          Integer consectetur purus neque, ac porttitor enim convallis vitae.
-          Interdum et malesuada fames ac ante ipsum primis in faucibus.
-  - type: section_cta
+          Experts from all areas of business have agreed to give up their time,
+          pro-bono to support our Founda network.
+        image: /images/undraw_experts3_3njd.png
+        title: Advisors
+      - content: >-
+          We occasionally get together to share knowledge, good food and a beer
+          or two.
+        image: /images/undraw_hang_out_h9ud.png
+        title: Meetups
+      - content: >-
+          As a collective we have been able to negotiate some excellent deals on
+          everything from startup office space to software packages.
+        image: /images/undraw_savings_dwkw.png
+        title: Discounts
+      - content: >-
+          We're always looking for new ways to support our Founda's. Watch this
+          space!
+        image: /images/undraw_notify_88a4-1-.png
+        title: ... More
+    section_id: features
+    subtitle: What we do
+    title: Features
+    type: section_features
+  - actions: []
     section_id: call-to-action
-    title: This Is Call To Action Block!
-    subtitle: This is an optional description for the call to action block.
-    actions:
-      - label: Get Started
-        url: /signup
-  - type: section_posts
-    section_id: recent-posts
-    title: Latest Posts
-    bg: gray
+    subtitle: >-
+      Founda is a not-for-profit organisation dedicated to assisting tech
+      startups.  Unlike most other support networks, we don’t charge anything to
+      join, we don’t impose revenue based entry criteria, nor do we ask for
+      equity.
+    title: 'For your profit, not ours.'
+    type: section_cta
+  - bg: gray
+    section_id: contact
+    subtitle: >-
+      We are invite / application only. Drop your details below and we will be
+      in touch shortly.
+    title: Join the club
+    type: section_contact
 menus:
   main:
     title: Home
-    weight: 1
+    weight: 0
 template: landing
 ---
+
