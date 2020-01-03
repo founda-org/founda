@@ -45,8 +45,8 @@ sections:
         image: /images/undraw_notify_88a4-1-.png
         title: ... More
     section_id: features
-    subtitle: What we do
-    title: Features
+    subtitle: ''
+    title: What we do
     type: section_features
   - actions: []
     section_id: call-to-action
