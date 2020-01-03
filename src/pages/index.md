@@ -5,7 +5,7 @@ sections:
       - label: Join the club
         url: '/#contact'
     content: ''
-    image: /images/undraw_team_spirit_hrr4-3-.svg
+    image: /images/undraw_team_spirit_hrr4-2-.svg
     section_id: hero
     title: Free business support for tech entrepreneurs
     type: section_hero
