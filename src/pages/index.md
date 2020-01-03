@@ -3,7 +3,7 @@ title: Home
 sections:
   - actions:
       - label: Join the club
-        url: /subscribe
+        url: '/#contact'
     content: ''
     image: /images/undraw_team_spirit_hrr4.svg
     section_id: hero
