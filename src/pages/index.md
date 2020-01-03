@@ -4,7 +4,10 @@ sections:
   - actions:
       - label: Join the club
         url: '/#contact'
-    content: ''
+    content: >-
+      Founda is a non-profit support / networking group for tech entrepreneurs.
+      Aiming to bring founders, investors and talented, supportive individuals
+      together.
     image: /images/undraw_team_spirit_hrr4-2-.svg
     section_id: hero
     title: Free business support for tech entrepreneurs
