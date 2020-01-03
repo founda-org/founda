@@ -3,10 +3,15 @@
   "palette": "green",
   "header": {
     "title": "Founda",
-    "logo_img": "/images/founda_logo.png",
-    "has_nav": false,
+    "logo_img": "",
+    "has_nav": true,
     "menu": {
-      "actions": []
+      "actions": [
+        {
+          "label": "Join the club",
+          "url": "/contact"
+        }
+      ]
     }
   },
   "footer": {
